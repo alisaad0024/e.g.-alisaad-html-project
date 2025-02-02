@@ -1,5 +1,4 @@
-<html>
-<head><title>محمد </title></head>
+
 <body bgcolor="white">
 <h1 align="center"><font color="black" size=150px><i><b>mohamad isnaknaka
 (مدلل البيت)</b></i></font></h1>
@@ -22,5 +21,3 @@
 70 951 898
 </p>
 <p align="center"><img src="C:\Users\ali_saad_313\OneDrive\Desktop\photo_5834701522905187987_y.jpg" align="center" border="1px" height="400px" width="250px"></p>
-</body>
-</html>

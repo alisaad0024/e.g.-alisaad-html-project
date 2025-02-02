@@ -2,7 +2,7 @@
 <body bgcolor="white">
 <h1 align="center"><font color="black" size=150px><i><b>mohamad isnaknaka
 (مدلل البيت)</b></i></font></h1>
-<p align="right"><img src="C:\Users\ali_saad_313\OneDrive\Desktop\mohamad.jpg" align="left"    border="1px" height="400px" width="250px"></p>
+<p align="right"><img src="images/photo_5834701522905187987_y.jpg" align="left"    border="1px" height="400px" width="250px"></p>
 
 <h3 align="right"><font color="black" size=75px>من هو محمد اسنقنقة (مدلل البيت) </h3>
 <p align="right">
@@ -20,4 +20,4 @@
 <p align="center">
 70 951 898
 </p>
-<p align="center"><img src="C:\Users\ali_saad_313\OneDrive\Desktop\photo_5834701522905187987_y.jpg" align="center" border="1px" height="400px" width="250px"></p>
+<p align="center"><img src="images/mohamad.jpg" align="center" border="1px" height="400px" width="250px"></p>
